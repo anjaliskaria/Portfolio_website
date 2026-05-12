@@ -22,7 +22,14 @@ const Projects = () => {
       description: "Student Report Generator web application  to automate student record management and grade calculation. Implemented features for report generation, percentage analysis, and database storage with an interactive user interface.",
       github: 'https://github.com/anjaliskaria/Student-report-generator-.git',
       tech: ['python', 'sqlite', 'streamlit', 'pycharm'],
+    },
+    {
+      title: 'Portfolio Website',
+      description: "A personal portfolio website built with React and Tailwind CSS to showcase projects, skills, and experience. The website features a modern design, responsive layout, and interactive elements to engage visitors.",
+      github: 'https://github.com/anjaliskaria/Portfolio_website.git',
+      tech: ['React', 'Tailwind CSS', 'JavaScript', 'Framer Motion'],
     }
+
   ];
 
   return (

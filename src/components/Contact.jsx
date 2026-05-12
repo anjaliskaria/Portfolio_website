@@ -50,7 +50,7 @@ const Contact = () => {
               </h3>
               <p className="text-base leading-7 text-gray-600 dark:text-gray-300">
                 As a passionate Data Science enthusiast, I'm dedicated to creating intelligent solutions and modern web experiences.
-                My expertise spans data analysis, machine learning, and full-stack development, always focused on delivering impactful results.
+                My expertise spans data analysis, machine learning, and frontend design and  development, always focused on delivering impactful results.
               </p>
             </div>
 

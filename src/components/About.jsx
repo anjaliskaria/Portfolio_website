@@ -7,7 +7,7 @@ const About = () => {
     {
       title: 'Programming Languages',
       icon: Code2,
-      skills: ['Python', 'Java', 'C'],
+      skills: ['Python', 'Java', 'C',],
     },
     {
       title: 'Databases',
@@ -32,7 +32,7 @@ const About = () => {
     {
       title: 'Tools & Technologies',
       icon: Workflow,
-      skills: ['Git', 'GitHub', 'VS Code', 'Streamlit'],
+      skills: ['Git', 'GitHub', 'VS Code','Figma', 'Streamlit','Bash Scripting'],
     },
   ];
 
